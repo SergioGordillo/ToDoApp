@@ -22,6 +22,8 @@ export const ToDoApp= () =>{
         localStorage.setItem('todos', JSON.stringify( todos ));
     }, [todos]);
 
+    console.log ("Me renderizo");
+
     const handleDelete = (todoId) => {
         const action={
             type: "delete",
