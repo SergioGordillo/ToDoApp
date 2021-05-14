@@ -1,4 +1,29 @@
-# Getting Started with Create React App
+# Can I try this web app? :open_mouth:
+
+Yes, of course. Here you have 
+
+# What can you do with this web app? :thinking:
+
+This web app enables you to do:
+
+· You can add and delete tasks to a list of "to dos". <br>
+· You can cross out if you have already completed a to do. <br>
+
+# Which technologies did I use to develop this app? :thinking:
+
+It is a web app made with React + JavaScript + some basic CSS + Bootstrap 5. <br>
+I used Create-React-App to create my React App. <br>
+
+# Which is the purpose of this web app? :thinking:
+
+It is a web app I made based on Fernando Herrera React course 🧐. I havent made barely changes compared to the project that Fernando Herrera made on the course, but just because I want to learn and adquire the basic React knowledge 🤓. I know the styles are very basic, but I just focused on React stuff. I learnt with this project about:
+
+:atom_symbol: useReducer.  <br>
+:atom_symbol: saving and getting data from local storage.  <br>
+:atom_symbol: optimization of the code, using components and custom hooks to make it cleaner.  <br>
+:art: I used for first time Bootstrap 5, since I had experience working with Bootstrap 4, but I had never used Bootstrap 5.  <br>
+
+# Getting Started with Create React App :stuck_out_tongue_winking_eye:
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
