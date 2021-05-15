@@ -1,4 +1,4 @@
-https://github.com/SergioGordillo/ToDoApp/blob/main/homeToDoApp.png
+<img src=https://github.com/SergioGordillo/ToDoApp/blob/main/homeToDoApp.png alt="Home of ToDoApp"/>
 
 # Can I try this web app? :open_mouth:
 
