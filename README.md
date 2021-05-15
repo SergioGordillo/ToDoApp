@@ -21,8 +21,8 @@ I used Create-React-App to create my React App. <br>
 It is a web app I made based on Fernando Herrera React course 🧐. I havent made barely changes compared to the project that Fernando Herrera made on the course, but just because I want to learn and adquire the basic React knowledge 🤓. I know the styles are very basic, but I just focused on React stuff. I learnt with this project about:
 
 :atom_symbol: useReducer.  <br>
-:atom_symbol: saving and getting data from local storage.  <br>
-:atom_symbol: optimization of the code, using components and custom hooks to make it cleaner.  <br>
+:atom_symbol: Saving and getting data from local storage.  <br>
+:atom_symbol: Optimization of the code, using components and custom hooks to make it cleaner.  <br>
 :art: I used for first time Bootstrap 5, since I had experience working with Bootstrap 4, but I had never used Bootstrap 5.  <br>
 
 # Getting Started with Create React App :stuck_out_tongue_winking_eye:
